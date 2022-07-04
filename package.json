@@ -1,0 +1,15 @@
+{
+  "name": "alveron-vision",
+  "version": "1.0.0",
+  "description": "Explore exoplanets discovered by the kepler spacecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.2.2"
+  }
+}
